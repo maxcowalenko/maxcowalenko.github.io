@@ -1,0 +1,17 @@
+{
+  "files": {
+    "manifest.json": "/manifest.json",
+    "global.css": "/global.css",
+    "bundle.css": "/build/bundle.css",
+    "bundle.js": "/build/bundle.js",
+    "index.html": "/index.html",
+    "favicon.png": "/favicon.png",
+    "precache-manifest.js": "/precache-manifest.js",
+    "service-worker.js": "/service-worker.js"
+  },
+  "entrypoints": [
+    "/global.css",
+    "/build/bundle.css",
+    "/build/bundle.js"
+  ]
+}
